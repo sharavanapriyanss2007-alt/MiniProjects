@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 1. Student Management System
+### Student Management System
 
 Features:
 - Add Student
